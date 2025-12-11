@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "more than words",
+  "base_artist": "羊文学",
+  "createdAt": "2025-12-11T00:58:42.801118Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Love You More Than Words Can Say",
+      "artist": "Otis Redding",
+      "has_synced": false,
+      "path": "select/01_I_Love_You_More_Than_Words_Can_Say_Otis_Redding.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "More Than Words Can Say",
+      "artist": "Mel & Kim",
+      "has_synced": false,
+      "path": "select/02_More_Than_Words_Can_Say_Mel_&_Kim.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "More Than Words Can Say",
+      "artist": "Mel & Kim",
+      "has_synced": false,
+      "path": "select/03_More_Than_Words_Can_Say_Mel_&_Kim.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "More Than Words Can Say - Extended Version",
+      "artist": "Mel & Kim",
+      "has_synced": false,
+      "path": "select/04_More_Than_Words_Can_Say_-_Extended_Version_Mel_&_Kim.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "More Than Words Can Say (Extended Version)",
+      "artist": "Mel & Kim",
+      "has_synced": false,
+      "path": "select/05_More_Than_Words_Can_Say_(Extended_Version)_Mel_&_Kim.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "More Than Words Can Say (Instrumental)",
+      "artist": "Mel & Kim",
+      "has_synced": false,
+      "path": "select/06_More_Than_Words_Can_Say_(Instrumental)_Mel_&_Kim.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "More Than Words",
+      "artist": "Extreme",
+      "has_synced": true,
+      "path": "select/07_More_Than_Words_Extreme.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "More Than Words",
+      "artist": "Extreme",
+      "has_synced": true,
+      "path": "select/08_More_Than_Words_Extreme.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "More Than Words (a cappella with congas)",
+      "artist": "Extreme",
+      "has_synced": false,
+      "path": "select/09_More_Than_Words_(a_cappella_with_congas)_Extreme.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "More Than Words (Edit)",
+      "artist": "Extreme",
+      "has_synced": true,
+      "path": "select/10_More_Than_Words_(Edit)_Extreme.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "More Than Words (Remix)",
+      "artist": "Extreme",
+      "has_synced": true,
+      "path": "select/11_More_Than_Words_(Remix)_Extreme.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "More than words can say",
+      "artist": "David Hasselhoff",
+      "has_synced": true,
+      "path": "select/12_More_than_words_can_say_David_Hasselhoff.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "more than words",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_01_more_than_words_羊文学.txt"
+    }
+  ]
+}
